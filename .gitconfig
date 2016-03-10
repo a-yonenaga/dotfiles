@@ -1,0 +1,8 @@
+[user]
+	name = Atsushi Yonenaga
+	email = a.yonenaga@domain.co.jp
+[core]
+	autoCRLF = false
+
+[alias]
+	graph = log --graph --date=short --decorate=short --pretty=format:'%Cgreen%h %Creset%cd %Cblue%cn %Cred%d %Creset%s'
